@@ -1,5 +1,5 @@
-<h1 align="center">Здраво 👋, ја сам / Hello, 👋 I am Алекса/Aleksa</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Здраво 👋, ја сам Алекса <br> Hello, 👋 I am Aleksa</h1>
+<h3 align="center">An enthusiastic front-end engineer based in Vienna, Austria, with a keen eye for design and a passion for crafting engaging user experiences through code.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaaleks07&label=Profile%20views&color=0e75b6&style=flat" alt="aaaleks07" /> </p>
 
