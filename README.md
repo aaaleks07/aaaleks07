@@ -1,19 +1,27 @@
-<h1 align="center">Здраво 👋, ја сам Алекса <br> Hello 👋, I am Aleksa</h1>
-<h3 align="center">An enthusiastic front-end engineer based in Vienna, Austria, with a keen eye for design and a passion for crafting engaging user experiences through code.</h3>
+<h3 align="center" style="font-size: 2em;">Здраво 👋, ја сам Алекса<br> Hello, 👋 I am Aleksa</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aaaleks07&label=Profile%20views&color=0e75b6&style=flat" alt="aaaleks07" /> </p>
+## 💫 About Me:
 
-- 🔭 I’m currently working on **JPassLocker**
+🗺️ Based in Vienna, Austria</br>
+🏫 HTL Rennweg, 1030 Wien -> IT</br>
+👨‍💻 I’m currently working on ![JPassLocker](https://github.com/JPassLocker)</br>
 
-- 💬 Ask me about **Java, Vue, Vuetify**
+## 💻 Tech Stack:
 
-- 📫 How to reach me **aleksa.nikolic@htl.rennweg.at**
+##### Most used: </br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/aaaleks07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aaaleks07" height="30" width="40" /></a>
-</p>
+##### Environment:  </br>
+![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)
+![Gnome](https://camo.githubusercontent.com/5ab1c4709a7aca8bbd8c5583ff9c6bc933377647c7d44237f060a3887bca5415/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d474e4f4d4526636f6c6f723d344138364346266c6f676f3d474e4f4d45266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![Alacritty](https://camo.githubusercontent.com/6d4f17fadf962fdb5bf8c5596f032bc1c3fdd58605487b15706b3415f4ff10d0/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d416c6163726974747926636f6c6f723d463436443031266c6f676f3d416c61637269747479266c6f676f436f6c6f723d464646464646266c6162656c3d)
+![Firefox](https://camo.githubusercontent.com/ef3402b63aebe0120ac4a36582baa7077774861a0c777aadf4b1a81681a16bcc/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d46697265666f782b42726f7773657226636f6c6f723d464637313339266c6f676f3d46697265666f782b42726f77736572266c6f676f436f6c6f723d464646464646266c6162656c3d)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank" rel="noreferrer"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
+## 👾 Editors:
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/aaaleks07) 
