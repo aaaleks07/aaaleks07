@@ -4,11 +4,15 @@
 
 🗺️ Based in Vienna, Austria</br>
 🏫 HTL Rennweg, 1030 Wien -> IT</br>
-👨‍💻 I’m currently working on ![JPassLocker](https://github.com/JPassLocker)</br>
+👨‍💻 I’m currently working on ![Tridimensional-rustics](https://github.com/aaaleks07/TridimensionalRustics)</br>
+
+
+✅ I'm done with ![JPassLocker](https://github.com/JPassLocker)</br>
 
 ## 💻 Tech Stack:
 
 ##### Most used: </br>
+![Rust](https://camo.githubusercontent.com/0b67f2eb691b83144519058d27f3ae6104f24a760db25d4a0566c7c40f53731f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f727573742d2532333030303030302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d72757374266c6f676f436f6c6f723d7768697465)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) 
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
